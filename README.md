@@ -6,7 +6,7 @@ DSA-Major-Assignment
 
 ### Clone the repository
 
-git clone 
+git clone https://github.com/YunusMertKok/DSA2_MAJOR_ASSIGNMENT.git
 
 ### To execute any of the given problems, follow these commands:
 
